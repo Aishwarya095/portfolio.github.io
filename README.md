@@ -1,7 +1,5 @@
 # portfolio.github.io
-title: Portfolio 
-description: The portfolio showcases my academic journey as a student studying data structures and algorithms
-theme:jekyll-theme-cayman
+
 ## Portfolio
 
 ### Hello, I'm Aishwarya 👋
